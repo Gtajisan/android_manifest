@@ -27,7 +27,7 @@ repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync 
 
 ```bash
 . build/envsetup.sh
-lunch afterlife_$devicecodename-userdebug
+lunch afterlife_Mi439_4_19-userdebug
 m afterlife -j$
 ```
 
